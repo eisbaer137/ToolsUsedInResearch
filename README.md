@@ -9,6 +9,8 @@ This demo is built using Visual Studio Code on Debian 10 linux.
 
 Test system: intel core i3-6300 with nVidia GeForce GTX 1050ti
 
+--------------------------------------------------------------------------------------------------
+
 Here goes the sample DAG structure used in this demo.
 
 ![DAG_computation](https://github.com/user-attachments/assets/589d4f1e-40a0-41b2-a1f1-cb0bf0d5392f)
